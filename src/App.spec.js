@@ -1,7 +1,7 @@
 import React from 'react';
 import { shallow } from 'enzyme';
 import App from './App';
-import Timer from '../Timer/Timer';
+import Timer from './components/Timer/Timer';
 
 describe('App', () => {
   let container;
